@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="gen"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="D:/itsmechlark/GitHub/greendao-cipher/dependencies/libs/com.itsmechlark.util.jar"/>
+	<classpathentry kind="lib" path="D:/itsmechlark/GitHub/greendao-cipher/dependencies/libs/commons-codec.jar"/>
+	<classpathentry kind="lib" path="D:/itsmechlark/GitHub/greendao-cipher/dependencies/libs/guava-r09.jar"/>
+	<classpathentry kind="con" path="com.android.ide.eclipse.adt.ANDROID_FRAMEWORK"/>
+	<classpathentry exported="true" kind="con" path="com.android.ide.eclipse.adt.DEPENDENCIES"/>
+	<classpathentry exported="true" kind="con" path="com.android.ide.eclipse.adt.LIBRARIES"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry exported="true" kind="con" path="org.springsource.ide.eclipse.gradle.classpathcontainer"/>
+	<classpathentry kind="output" path="bin/classes"/>
+</classpath>

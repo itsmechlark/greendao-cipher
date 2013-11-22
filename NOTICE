@@ -1,0 +1,31 @@
+THE FOLLOWING SETS FORTH ATTRIBUTION NOTICES FOR THIRD PARTY SOFTWARE THAT MAY BE CONTAINED IN PORTIONS OF THE SOURCE CODE.
+
+----
+
+The following software may be included in this source code. greenDAO. This software contains the following license and notice below:
+
+greenrobot greenDAO
+This product includes software developed at greenrobot.de (http://greenrobot.de/).
+
+/*
+ * Copyright 2011 greenrobot.de
+ *
+ * Licensed under the Apache License, Version 2.0 (the "License");
+ * you may not use this file except in compliance with the License.
+ * You may obtain a copy of the License at
+ *
+ * http://www.apache.org/licenses/LICENSE-2.0
+ *
+ * Unless required by applicable law or agreed to in writing, software
+ * distributed under the License is distributed on an "AS IS" BASIS,
+ * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ * See the License for the specific language governing permissions and
+ * limitations under the License.
+*/
+
+android-database-sqlcipher
+The SQLCipher code itself is licensed under a BSD-style license from Zetetic LLC
+Stephen Lombardo - original SQLCipher
+Hans-Christoph Steiner - original port to Android, including build scripts
+Nathan Freitas - additional Android development, Database API integration
+Nick Parker - improvements in Android platform compatibility and build scripts
